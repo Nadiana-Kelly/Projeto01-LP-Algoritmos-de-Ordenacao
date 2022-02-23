@@ -1,4 +1,4 @@
-//Nadiana Kelly Nogueira Mendes - 475557
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
