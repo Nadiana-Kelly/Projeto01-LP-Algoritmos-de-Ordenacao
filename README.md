@@ -1,4 +1,4 @@
-# Projeto de aboratório de Programação
+# Projeto de laboratório de Programação
 
 Projeto que utiliza os seguintes algoritmos de ordenação:
 - Heap Sort
